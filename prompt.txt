@@ -1,0 +1,10 @@
+Write the one sentence a house cat would say in its own defence in the five seconds after knocking a glass off the table.
+
+Constraints:
+- Exactly one sentence, at most 200 characters.
+- In the cat's own voice: its own logic, self-interest, and total lack of remorse — never a person apologising.
+- Land a fresh comic idea; avoid the obvious gravity, slippery-edge, or it-was-already-falling lines.
+- It must sound like a spoken line a cat could plausibly deliver in five seconds, not a written paragraph of reasoning.
+- Every character must earn its place: no padding, throat-clearing, or repeated joke.
+
+Output: the single sentence, written to entry.txt.
